@@ -7,3 +7,6 @@ function print(){
 var g = () =>{
     
 }
+function a(){
+    
+}
